@@ -8,8 +8,6 @@ int main()
     int random_genNo=0,count=0,num;
     int stime;
     long ltime;
- 
-    //initialise srand with current time, to get random number on every run
     ltime = time(NULL);
     stime = (unsigned) ltime/2;
     srand(stime);
