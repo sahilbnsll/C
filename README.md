@@ -29,3 +29,20 @@
 - Today C is the most widely used and popular System Programming Language.
 
 - Most of the state-of-the-art software have been implemented using C.
+
+<h4 align="center"> Basic Example</h4>
+
+```c
+#include <stdio.h>
+void main()
+{
+printf("Hello Github!");
+printf("\n Thanks For Visiting.");
+}
+```
+<h3>Output:</h3>
+
+```
+Hello Github!                                                                                                                                 
+ Thanks For Visiting. 
+ ```
